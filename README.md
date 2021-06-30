@@ -1,5 +1,5 @@
-### [Aplikasi Perekaman Pegawai]( klik
-### [Diagram dan penjelasan]() klik
+### [Aplikasi Perekaman Pegawai](http://app-rekap-pegawai.herokuapp.com/) klik
+### [Diagram dan penjelasan](https://drive.google.com/file/d/1-oMB0pAoXkOLZoPk6hGZefQUc-HwmCfk/view?usp=sharing) klik
 #### By
 - Nama  : M.ergifanto
 - NIM   : 18090133
